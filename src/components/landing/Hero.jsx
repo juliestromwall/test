@@ -20,10 +20,10 @@ export default function Hero() {
           </p>
 
           <div className="flex gap-3 justify-center pt-2">
-            <Button size="lg" className="rounded-full px-6">
+            <Button size="lg" className="rounded-full px-6 bg-[#ff69b4] text-black hover:bg-[#ff45a0]">
               Work flexible shifts
             </Button>
-            <Button size="lg" className="rounded-full px-6">
+            <Button size="lg" className="rounded-full px-6 bg-[#ff69b4] text-black hover:bg-[#ff45a0]">
               Solve your shortage
             </Button>
           </div>
